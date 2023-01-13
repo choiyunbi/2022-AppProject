@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/final_project/app/src/main/res/layout/activity_drawer.xml" value="0.1" />
+        <entry key="..\:/Android/final_project/app/src/main/res/layout/activity_game.xml" value="0.18" />
+        <entry key="..\:/Android/final_project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/final_project/app/src/main/res/layout/activity_portfolio.xml" value="0.1" />
+        <entry key="..\:/Android/final_project/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Android/final_project/app/src/main/res/layout/drawable.xml" value="0.34103260869565216" />
+        <entry key="..\:/Android/final_project/app/src/main/res/layout/drawer.xml" value="0.2667572463768116" />
+        <entry key="..\:/Android/final_project/app/src/main/res/menu/drawablelayout.xml" value="0.1" />
+        <entry key="..\:/Android/final_project/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Android/final_project/app/src/main/res/menu/menu_back.xml" value="0.1" />
+        <entry key="..\:/Android/final_project/app/src/main/res/menu/menu_logout.xml" value="0.25675675675675674" />
+        <entry key="..\:/Android/final_project/app/src/main/res/menu/menu_main.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
